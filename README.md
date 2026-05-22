@@ -10,9 +10,9 @@ This project implements a relational database schema for a Hospital Management S
 
 \## Features
 
+###### 
 
-
-\* Creation of core entities:
+**Creation of core entities:**
 
 
 
@@ -26,7 +26,7 @@ This project implements a relational database schema for a Hospital Management S
 
 
 
-\* Implementation of:
+**Implementation of:**
 
 
 
@@ -42,7 +42,7 @@ This project implements a relational database schema for a Hospital Management S
 
 
 
-\## Database Concepts Applied
+**## Database Concepts Applied**
 
 
 
@@ -60,7 +60,7 @@ This project implements a relational database schema for a Hospital Management S
 
 
 
-\## Objective
+**## Objective**
 
 
 
